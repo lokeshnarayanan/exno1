@@ -93,6 +93,22 @@ df.fillna(0)
 
 ![Screenshot 2024-03-01 155150](https://github.com/chandrumathiyazhagan/exno1/assets/119393023/582708d0-abc7-4c18-8c89-5698d2b80ef3)
 
+![image](https://github.com/lokeshnarayanan/exno1/assets/119393019/6fd6dfc8-0d67-4875-a73d-28a37b940e5c)
+
+
+![image](https://github.com/lokeshnarayanan/exno1/assets/119393019/d18070cf-d172-4331-a170-d0da5ffe482a)
+
+
+![image](https://github.com/lokeshnarayanan/exno1/assets/119393019/be2a112e-d1e4-49f4-b6f0-2c52de5771ab)
+
+
+![image](https://github.com/lokeshnarayanan/exno1/assets/119393019/cf437a19-8ad1-49db-b3ba-3e0c12d797fa)
+
+
+![image](https://github.com/lokeshnarayanan/exno1/assets/119393019/df802aa6-6241-4d27-a906-59727576a962)
+
+
+
 ### Result
 
-The data cleaning has beeen done successfully.
+The data cleaning has been done successfully.
